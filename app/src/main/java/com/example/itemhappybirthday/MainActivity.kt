@@ -145,20 +145,20 @@ fun GreetingText(
     )
 }
 
-@Composable
-fun Info(phone: String, share: String, email: String, modifier: Modifier = Modifier) {
-    Text(
-        text = phone,
-        modifier = modifier.padding(bottom = 8.dp)
-    )
-    Text(
-        text = share,
-        modifier = modifier.padding(bottom = 8.dp)
-    )
-    Text(
-        text = email
-    )
-}
+//@Composable
+//fun Info(phone: String, share: String, email: String, modifier: Modifier = Modifier) {
+//    Text(
+//        text = phone,
+//        modifier = modifier.padding(bottom = 8.dp)
+//    )
+//    Text(
+//        text = share,
+//        modifier = modifier.padding(bottom = 8.dp)
+//    )
+//    Text(
+//        text = email
+//    )
+//}
 
 
 @Preview
