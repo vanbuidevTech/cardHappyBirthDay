@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ItemHappyBirthDay</string>
+    <string name="jenifer_doe">Jenifer Doe</string>
+    <string name="android_developer_extraordinaire">Android Developer Extraordinaire</string>
+    <string name="phone_user">+11 (123) 444 555 666</string>
+    <string name="share_to">@AndroidDev</string>
+    <string name="email_to">jen.doe@android.com</string>
+</resources>
